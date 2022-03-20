@@ -1,4 +1,4 @@
 *.crt
 *.key
-domain.csr
-rootCA.srl
+*.csr
+*.srl
