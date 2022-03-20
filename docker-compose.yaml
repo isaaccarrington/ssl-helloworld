@@ -1,0 +1,6 @@
+version: "3.3"
+services:
+  webserver:
+    build: .
+    ports: 
+      - "8900:443"

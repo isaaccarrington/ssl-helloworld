@@ -1,0 +1,4 @@
+*.crt
+*.key
+domain.csr
+rootCA.srl
